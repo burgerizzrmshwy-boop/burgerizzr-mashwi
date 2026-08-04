@@ -231,15 +231,14 @@ background:#ff9800;
 background:#25D366;
 }
 .logo{
+    width:100%;
     display:flex;
     justify-content:center;
     align-items:center;
-    margin:5px 0 10px 0;
+    margin:10px 0;
 }
 
 .logo img{
-    width:100px;
+    width:90px;
     height:auto;
-    display:block;
-    margin:auto;
 }
