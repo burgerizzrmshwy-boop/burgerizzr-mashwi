@@ -17,9 +17,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
         button.addEventListener("click", function() {
 
-            const lang = this.textContent.trim();
+            const lang = this.getAttribute("data-lang");
 
-            if (lang === "العربية") {
+              if (lang === "ar") {
+
                 document.documentElement.dir = "rtl";
                 document.documentElement.lang = "ar";
 
