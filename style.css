@@ -230,3 +230,14 @@ background:#ff9800;
 .lang-btn.active{
 background:#25D366;
 }
+.logo{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin:20px 0;
+}
+
+.logo img{
+  width:140px;
+  height:auto;
+}
