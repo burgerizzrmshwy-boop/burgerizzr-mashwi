@@ -16,6 +16,10 @@ header{
 background:linear-gradient(90deg,#FFD400,#FF8C00);
 padding:20px;
 text-align:center;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
 position:sticky;
 top:0;
 z-index:1000;
@@ -35,6 +39,9 @@ margin-top:8px;
 
 nav{
 margin-top:15px;
+display:flex;
+justify-content:center;
+align-items:center;
 }
 
 nav a{
