@@ -190,3 +190,17 @@ object-fit:cover;
 border-radius:10px;
 margin-bottom:15px;
 }
+.order-btn{
+display:inline-block;
+margin-top:10px;
+padding:10px 25px;
+background:#25D366;
+color:white;
+text-decoration:none;
+border-radius:25px;
+font-weight:bold;
+}
+
+.order-btn:hover{
+background:#1ebc57;
+}
