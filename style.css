@@ -321,10 +321,13 @@ header{
     align-items:center;
     gap:15px;
 }
-
 .language-switch{
     display:flex;
     gap:8px;
+    position:relative;
+    top:5px;
+    left:80px;
+}
 }
 
 .lang-btn{
