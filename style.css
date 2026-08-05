@@ -412,7 +412,7 @@ html, body{
 }
 
 .logo img{
-    width:60px;
+    width:80px;
     height:auto;
 }
 
@@ -425,13 +425,16 @@ html, body{
 
 .logo-text h3{
     color:#e53935;
-    font-size:14px;
+    font-size:12px;
     letter-spacing:6px;
-    margin:5px 0;
+    margin:5px 0.logo-text{
+    transform:scale(0.8);
+    transform-origin:left center;
+}
 }
 
 .logo-text p{
     color:#ffffff;
-    font-size:12px;
+    font-size:10px;
     margin:0;
 }
