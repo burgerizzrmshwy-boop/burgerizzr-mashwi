@@ -412,7 +412,7 @@ html, body{
 }
 
 .logo img{
-    width:80px;
+    width:90px;
     height:auto;
 }
 .logo-text{
@@ -423,7 +423,7 @@ html, body{
 }
 .logo-text h2{
     color:#d4af37;
-    font-size:25px;
+    font-size:30px;
     margin:0;
     line-height:1;
 }
