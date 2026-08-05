@@ -365,6 +365,15 @@ header{
     display:flex;
     align-items:center;
 }
+.main-header{
+    position:relative;
+}
+
+.header-burger{
+    position:absolute;
+    right:20px;
+    bottom:10;
+}
 
 .header-burger img{
     width:500px;
