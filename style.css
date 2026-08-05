@@ -238,17 +238,7 @@ background:#ff9800;
 .lang-btn.active{
 background:#25D366;
 }
-.logo{
-    width:100%;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    margin:10px 0;
-}
 
-.logo img{
-    width:180px;
-    height:auto;
 }
 img {
     max-width: 100%;
