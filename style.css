@@ -308,10 +308,10 @@ header{
     justify-content:center;
     align-items:center;
     gap:12px;
-    margin-top:0px;
+    margin-top:_0px;
     margin-left:150px;
     position:relative;
-top:-30px;
+top:-100px;
 }
 
 .navbar a:hover{
