@@ -412,26 +412,26 @@ html, body{
 }
 
 .logo img{
-    width:70px;
+    width:60px;
     height:auto;
 }
 
 .logo-text h2{
     color:#d4af37;
-    font-size:30px;
+    font-size:25px;
     margin:0;
     line-height:1;
 }
 
 .logo-text h3{
     color:#e53935;
-    font-size:18px;
+    font-size:14px;
     letter-spacing:6px;
     margin:5px 0;
 }
 
 .logo-text p{
     color:#ffffff;
-    font-size:16px;
+    font-size:12px;
     margin:0;
 }
