@@ -371,11 +371,12 @@ header{
     height:auto;
 }
 .logo{
-    align-self:flex-start;
-    margin-top:0;
+    position:absolute;
+    top:10px;
+    left:20px;
 }
 
 .logo img{
-    width:220px;
+    width:180px;
     height:auto;
 }
