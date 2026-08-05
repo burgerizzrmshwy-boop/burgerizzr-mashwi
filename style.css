@@ -314,8 +314,10 @@ header{
 .navbar a{
     color:#fff;
     text-decoration:none;
-    font-size:17px;
+    font-size:15px;
     font-weight:600;
+    white-space:nowrap;
+    padding:8px 10px;
 }
 
 .navbar a:hover{
