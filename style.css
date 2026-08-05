@@ -320,3 +320,21 @@ nav a:hover{
 .whatsapp-btn:hover{
     background:#f0c94d;
 }
+.top-bar{
+    background:#000;
+    color:#d4af37;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:12px 40px;
+    font-size:15px;
+    border-bottom:1px solid rgba(212,175,55,.4);
+}
+
+.top-left,
+.top-center,
+.top-right{
+    display:flex;
+    align-items:center;
+    gap:8px;
+}
