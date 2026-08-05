@@ -361,3 +361,12 @@ header{
 .order-btn:hover{
     background:#f4c542;
 }
+.header-burger{
+    display:flex;
+    align-items:center;
+}
+
+.header-burger img{
+    width:500px;
+    height:auto;
+}
