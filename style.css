@@ -363,21 +363,21 @@ header{
 
 .header-burger{
     position:absolute;
-    right:0px;
+    right:10px;
     bottom:0;
 }
 
 .header-burger img{
-    width:400px;
+    width:450px;
     height:auto;
 }
 .logo{
     position:absolute;
-    top:5px;
-    left:10px;
+    top:2px;
+    left:5px;
 }
 
 .logo img{
-    width:80px;
+    width:70px;
     height:auto;
 }
