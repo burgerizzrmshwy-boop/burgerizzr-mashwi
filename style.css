@@ -301,14 +301,15 @@ header{
     justify-content:center;
     align-items:flex-start;
     gap:12px;
-}
-.navbar a{
-    color:#fff;
-    text-decoration:none;
-    font-size:15px;
-    font-weight:600;
-    white-space:nowrap;
-    padding:8px 10px;
+}   
+.navbar{
+    display:flex;
+    flex-wrap:nowrap;
+    justify-content:center;
+    align-items:center;
+    gap:12px;
+    margin-top:-20px;
+    margin-left:80px;
 }
 
 .navbar a:hover{
