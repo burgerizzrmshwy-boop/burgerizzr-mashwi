@@ -304,12 +304,13 @@ header{
     width:180px;
     height:auto;
 }
-
 .navbar{
     display:flex;
-    gap:35px;
+    flex-wrap:nowrap;
+    justify-content:center;
+    align-items:center;
+    gap:12px;
 }
-
 .navbar a{
     color:#fff;
     text-decoration:none;
