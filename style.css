@@ -247,7 +247,7 @@ background:#25D366;
 }
 
 .logo img{
-    width:260px;
+    width:180px;
     height:auto;
 }
 img {
@@ -301,7 +301,7 @@ header{
 }
 
 .logo img{
-    width:260px;
+    width:180px;
     height:auto;
 }
 .navbar{
@@ -372,7 +372,7 @@ header{
 .header-burger{
     position:absolute;
     right:0px;
-    bottom:20;
+    bottom:0;
 }
 
 .header-burger img{
