@@ -310,6 +310,8 @@ header{
     gap:12px;
     margin-top:0px;
     margin-left:150px;
+    position:relative;
+top:-30px;
 }
 
 .navbar a:hover{
