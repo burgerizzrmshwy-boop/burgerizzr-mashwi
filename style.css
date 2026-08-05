@@ -381,3 +381,22 @@ header{
     width:70px;
     height:auto;
 }
+html, body{
+    width:100%;
+    overflow-x:hidden;
+}
+
+*{
+    max-width:100%;
+}
+
+.main-header{
+    width:100%;
+    overflow:hidden;
+}
+
+.header-burger img{
+    max-width:220px;
+    width:100%;
+    height:auto;
+}
