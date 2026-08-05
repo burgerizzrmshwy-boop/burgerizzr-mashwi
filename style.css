@@ -417,8 +417,8 @@ html, body{
 }
 .logo-text{
     position:relative;
-    top:-0px;
-    left:5px;
+    top:-5px;
+    left:0px;
     transform:scale(0.8);
 }
 .logo-text h2{
