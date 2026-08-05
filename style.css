@@ -405,3 +405,33 @@ html, body{
     width:100%;
     height:auto;
 }
+.logo{
+    display:flex;
+    align-items:center;
+    gap:15px;
+}
+
+.logo img{
+    width:70px;
+    height:auto;
+}
+
+.logo-text h2{
+    color:#d4af37;
+    font-size:30px;
+    margin:0;
+    line-height:1;
+}
+
+.logo-text h3{
+    color:#e53935;
+    font-size:18px;
+    letter-spacing:6px;
+    margin:5px 0;
+}
+
+.logo-text p{
+    color:#ffffff;
+    font-size:16px;
+    margin:0;
+}
