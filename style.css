@@ -371,8 +371,8 @@ header{
 
 .header-burger{
     position:absolute;
-    right:20px;
-    bottom:10;
+    right:0px;
+    bottom:20;
 }
 
 .header-burger img{
