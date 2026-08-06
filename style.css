@@ -325,10 +325,10 @@ top:-100px;
 }
 .language-switch{
     display:flex;
-    gap:8px;
+    gap:5px;
     position:relative;
     top:0px;
-    left:40px;
+    left:80px;
 }
 }
 
