@@ -356,3 +356,115 @@ text-align:center;
 }
 
 }
+/* ===========================
+   PART 3 - FOOTER & FINISH
+=========================== */
+
+/* FOOTER */
+
+footer{
+background:#0b0b0b;
+color:#d4af37;
+text-align:center;
+padding:30px 20px;
+font-size:16px;
+margin-top:50px;
+border-top:2px solid #d4af37;
+}
+
+/* FLOATING WHATSAPP */
+
+.whatsapp-float{
+position:fixed;
+right:20px;
+bottom:20px;
+width:60px;
+height:60px;
+background:#25D366;
+color:#fff;
+border-radius:50%;
+display:flex;
+align-items:center;
+justify-content:center;
+text-decoration:none;
+font-size:30px;
+box-shadow:0 5px 15px rgba(0,0,0,.3);
+z-index:9999;
+transition:.3s;
+}
+
+.whatsapp-float:hover{
+transform:scale(1.1);
+background:#1ebd57;
+}
+
+/* SMOOTH EFFECT */
+
+.card,
+.btn,
+.order-btn,
+.navbar a,
+.lang-btn{
+transition:.3s ease;
+}
+
+/* IMAGE */
+
+img{
+max-width:100%;
+height:auto;
+display:block;
+}
+
+/* MOBILE */
+
+@media (max-width:768px){
+
+.logo-text{
+text-align:center;
+}
+
+.logo-text h2{
+font-size:22px;
+}
+
+.logo-text h3{
+font-size:12px;
+letter-spacing:4px;
+}
+
+.logo-text p{
+font-size:10px;
+}
+
+.navbar{
+flex-direction:column;
+width:100%;
+}
+
+.navbar a{
+width:100%;
+text-align:center;
+}
+
+.header-actions{
+flex-direction:column;
+}
+
+.language-switch{
+justify-content:center;
+}
+
+.hero h2{
+font-size:30px;
+}
+
+.hero p{
+font-size:16px;
+}
+
+section h2{
+font-size:30px;
+}
+
+}
