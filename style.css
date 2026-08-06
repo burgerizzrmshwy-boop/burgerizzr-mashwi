@@ -418,7 +418,7 @@ html, body{
 .logo-text{
     position:relative;
     top:-5px;
-    left:-20px;
+    left:-40px;
     transform:scale(0.8);
 }
 .logo-text h2{
